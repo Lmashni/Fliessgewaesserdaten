@@ -42,3 +42,5 @@ xfmt = md.DateFormatter('%m-%d')#'%H:%M')
 
 ax[-1].xaxis.set_major_formatter(xfmt)
 print(datetime.datetime.fromtimestamp(data[3][-1]['times'][-1]/1000))
+
+plt.show()
