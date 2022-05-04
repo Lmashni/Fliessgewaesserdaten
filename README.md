@@ -1,4 +1,4 @@
-# Fliessgewaesserdaten
+# Json water quality
 This script collects json files online to produce a plot of quantities relating to the water quality in wendlingen.
 
 The json files are updated every three hours by the Landesanstalt für Umwelt Baden-Württemberg. You can specifeiy the number of days you want to go back in time.
